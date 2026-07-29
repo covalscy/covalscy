@@ -4,12 +4,6 @@
   <h3>Software Engineer | Systems & Backend Developer</h3>
 
   <p>
-    <b>Languages:</b> 
-    <a href="README.md">🇬🇧 English</a> | 
-    <a href="README.ru.md">🇷🇺 Русский</a>
-  </p>
-
-  <p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Software+Engineer+(C%2B%2B+%7C+Java+%7C+Python);Low-Level+%26+Performance+Optimization;High-Load+Systems+%26+Network+Protocols;Building+Scalable+%26+Clean+Architecture" alt="Typing SVG" />
     </a>
