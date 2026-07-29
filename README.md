@@ -44,10 +44,4 @@ With strong hands-on experience in **C++, Java, and Python**, I focus on systems
 
 ---
 
-### 💬 Contact Information
-
-- **Email:** [covalscy2.0@gmail.com](mailto:covalscy2.0@gmail.com)
-- **Telegram:** [@Covalscy2_0](https://t.me/Covalscy2_0)
-- **Discord:** [Covalscy Profile](https://discord.com/users/651826842017202203)
-- **CurseForge:** [covalscy Projects](https://www.curseforge.com/members/covalscy/projects)
 
