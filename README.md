@@ -58,4 +58,3 @@ With strong hands-on experience in **C++, Java, and Python**, I focus on systems
 - **Discord:** [Covalscy Profile](https://discord.com/users/651826842017202203)
 - **CurseForge:** [covalscy Projects](https://www.curseforge.com/members/covalscy/projects)
 
-*⚡ Open for Software Developer / Backend / C++ & Java Engineering opportunities!*
