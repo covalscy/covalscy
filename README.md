@@ -34,7 +34,7 @@ With strong hands-on experience in **C++, Java, and Python**, I focus on systems
 
 - 💻 **Primary Stack:** C++, Java, Python, C#, C, Git
 - ⚡ **Core Competencies:** Multithreading & Concurrency, Memory Management, and Low-Level Optimization.
-- 🎯 **Target Roles:** Software Engineer / Backend Developer / C++ & Java Developer.
+- 🎯 **Target Roles:** Software Engineer / Backend Developer.
 
 ---
 
@@ -46,7 +46,6 @@ With strong hands-on experience in **C++, Java, and Python**, I focus on systems
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
 | **Tools & Frameworks** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white) ![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) |
-| **Engineering Concepts** | `Multithreading` `Client-Server Protocols` `OpenGL Pipeline` `State Machines` `Memory Management` `JVM Profiling` |
 
 </div>
 
