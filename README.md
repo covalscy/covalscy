@@ -62,9 +62,9 @@ With strong hands-on experience in **C++, Java, and Python**, I specialize in bu
 - **Tech:** Java, Client-Server Networking, Event-Driven Architecture
 - High-concurrency player revive & lifecycle state machine with custom packet synchronization protocols, entity physics overrides, and inter-mod integration APIs.
 
-#### ⚡ [TaCZ Optimization](https://github.com/covalscy)
-- **Tech:** Java, Bytecode Manipulation (Mixins), JVM Profiling
-- Low-level performance framework optimizing hot path execution loops to minimize GC pauses and memory allocations under heavy load.
+#### ⚡ [[TaCZ] Optimization](https://github.com/covalscy/TaczOptimization)
+- **Tech:** Java, SpongePowered Mixin, TACZ API, Client-Side Render Profiling
+- Performance optimization mod for TACZ. Cancels third-person 3D attachment rendering, optimizes kinetic bullet/tracer draw calls during high-RPM automatic gunfire, and throttles heavy HUD overlays.
 
 ---
 
