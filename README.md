@@ -72,8 +72,8 @@ With strong hands-on experience in **C++, Java, and Python**, I specialize in bu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=covalscy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=covalscy&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" height="170" alt="top languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=covalscy&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=covalscy&theme=tokyonight&hide_border=true&area=true" height="165" alt="activity graph" />
 
 </div>
 
