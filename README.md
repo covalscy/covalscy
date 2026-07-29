@@ -42,6 +42,4 @@ With strong hands-on experience in **C++, Java, and Python**, I focus on systems
 
 </div>
 
----
-
 
