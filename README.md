@@ -68,17 +68,6 @@ With strong hands-on experience in **C++, Java, and Python**, I specialize in bu
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=covalscy&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=covalscy&theme=tokyonight&hide_border=true&area=true" height="165" alt="activity graph" />
-
-</div>
-
----
-
 ### 💬 Contact Information
 
 - **Email:** [covalscy2.0@gmail.com](mailto:covalscy2.0@gmail.com)
