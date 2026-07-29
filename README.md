@@ -10,7 +10,6 @@
   </p>
 
   <p>
-    <a href="mailto:covalscy2.0@gmail.com"><img src="https://img.shields.io/badge/Email-covalscy2.0%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
     <a href="https://t.me/Covalscy2_0"><img src="https://img.shields.io/badge/Telegram-@Covalscy2__0-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://discord.com/users/651826842017202203"><img src="https://img.shields.io/badge/Discord-Covalscy-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.curseforge.com/members/covalscy/projects"><img src="https://img.shields.io/badge/CurseForge-My_Projects-F16436?style=for-the-badge&logo=curseforge&logoColor=white" /></a>
