@@ -1,6 +1,5 @@
 <div align="center">
 
-  <h1>Hi, I'm Covalscy 👋</h1>
   <h3>Software Engineer | Systems & Backend Developer</h3>
 
   <p>
