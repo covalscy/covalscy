@@ -28,12 +28,12 @@
 
 ### 🚀 About Me
 
-I am a **Software Engineer** focused on backend systems, high-performance application development, and software architecture.
+I am a **Software Engineer** focused on backend systems and high-performance application development.
 
-With strong hands-on experience in **C++, Java, and Python**, I specialize in building low-latency network applications, memory-efficient data structures, and concurrent multi-threaded systems.
+With strong hands-on experience in **C++, Java, and Python**, I focus on systems programming, performance optimization, and concurrent multi-threaded applications.
 
 - 💻 **Primary Stack:** C++, Java, Python, C#, C, Git
-- ⚡ **Core Competencies:** Multithreading & Concurrency, Memory Management, Client-Server Networking, Low-Level Optimization, and Clean OOP Architecture.
+- ⚡ **Core Competencies:** Multithreading & Concurrency, Memory Management, and Low-Level Optimization.
 - 🎯 **Target Roles:** Software Engineer / Backend Developer / C++ & Java Developer.
 
 ---
@@ -49,22 +49,6 @@ With strong hands-on experience in **C++, Java, and Python**, I specialize in bu
 | **Engineering Concepts** | `Multithreading` `Client-Server Protocols` `OpenGL Pipeline` `State Machines` `Memory Management` `JVM Profiling` |
 
 </div>
-
----
-
-### 📌 Featured Projects
-
-#### 🗺️ [Minimap & Match Engine](https://github.com/covalscy/minimapMod)
-- **Tech:** Java, C++, OpenGL, Multithreading, State Machine Architecture, Packet Sync
-- Engine engineered specifically for the **Cowax MC** server. Features real-time interactive map rendering using custom OpenGL projection matrices, non-blocking background thread worker pools, and a deterministic match state machine (FSM).
-
-#### 🩸 [BleedOut](https://github.com/covalscy/BleedOut)
-- **Tech:** Java, Client-Server Networking, Event-Driven Architecture
-- High-concurrency player revive & lifecycle state machine with custom packet synchronization protocols, entity physics overrides, and inter-mod integration APIs.
-
-#### ⚡ [[TaCZ] Optimization](https://github.com/covalscy/TaczOptimization)
-- **Tech:** Java, SpongePowered Mixin, TACZ API, Client-Side Render Profiling
-- Performance optimization mod for TACZ. Cancels third-person 3D attachment rendering, optimizes kinetic bullet/tracer draw calls during high-RPM automatic gunfire, and throttles heavy HUD overlays.
 
 ---
 
